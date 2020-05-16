@@ -5,20 +5,12 @@
     <link>https://shirzart.github.io/</link>
       <atom:link href="https://shirzart.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirzart Enwer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 16 May 2020 18:00:46 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 May 2020 23:03:34 +0200</lastBuildDate>
     <image>
       <url>https://shirzart.github.io/images/icon_hudaf2fd83df7c62683b8b46f3900481ab_15352_512x512_fill_lanczos_center_2.png</url>
       <title>Shirzart Enwer</title>
       <link>https://shirzart.github.io/</link>
     </image>
-    
-    <item>
-      <title>My Masteter Thesis_project</title>
-      <link>https://shirzart.github.io/project/my-masteter-thesis_project/</link>
-      <pubDate>Sat, 16 May 2020 18:00:46 +0200</pubDate>
-      <guid>https://shirzart.github.io/project/my-masteter-thesis_project/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Learning from my master thesis</title>
@@ -64,6 +56,17 @@ But the disadvantages of this mechanism is, when you cannot receive 100% honest 
 &lt;p&gt;Whenever possible, you should seek motivation from within. You need to own your project, own your thesis and your work by setting your goal, your expectation and motivate yourself with less external incentives but more with internal incentives. Only in this way, there won&amp;rsquo;t be a perfect solution for anything, but always a better one. Freeing ourself from other people&amp;rsquo;s expectation and instead strive to meet our own need, would be the most independent long term motivation that drives us safe and far.&lt;/p&gt;
 &lt;p&gt;I learned this only after my thesis, after a tearful and heart-breaking meeting.&lt;/p&gt;
 &lt;p&gt;I wish I could have done my thesis in all these different way :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Semester Project</title>
+      <link>https://shirzart.github.io/project/my-semester-project/</link>
+      <pubDate>Mon, 04 May 2020 11:23:33 +0200</pubDate>
+      <guid>https://shirzart.github.io/project/my-semester-project/</guid>
+      <description>&lt;p&gt;In my master project, I did &amp;hellip;.&lt;/p&gt;
+&lt;p&gt;To have a view of full view of my work, visit my Github profile here: 
+&lt;a href=&#34;https://github.com/shirzartenwer/master_project_work_showcase&#34; title=&#34;Master Project Showcase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to my Github Master Project link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
