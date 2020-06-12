@@ -17,7 +17,69 @@
       <link>https://shirzart.github.io/project/my-semester-project/</link>
       <pubDate>Mon, 04 May 2020 11:23:33 +0200</pubDate>
       <guid>https://shirzart.github.io/project/my-semester-project/</guid>
-      <description>&lt;p&gt;In my master project, I did &amp;hellip;.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;background-information&#34;&gt;Background information&lt;/h2&gt;
+&lt;p&gt;Global warming is a well-sound alarm occupying the news everyday, before the corona hit us. The most relatable source of pollution or contribution for an average joe might be the black smoke coming out of the chimney from nearby power plant. Indeed, coal-fired power plant is one of the main contributor to emission of green house gases, but what is little know to many people is, it&amp;rsquo;s not only green house gases being emitted by power plant. Sometimes it also contains heavy metal pollutants,for example, mercury.&lt;/p&gt;
+&lt;p&gt;But from all the emission happened from global power plants, how much mercury emission happened every year? After they are emitted, how would they distribute globally? While, if it&amp;rsquo;s really bad, what can we do to reduce it? How well the effect of reduction be?&lt;/p&gt;
+&lt;p&gt;There has been some studies investigating in this question, but it&amp;rsquo;s still rather new. My thesis project was then focusing on answering those questions by 1) modelling the mercury emission 2) Calculating the mercury gaseous concentration distribution globally, 3) Purpose the mitigation strategy and model the effect after the mitigation strategy.&lt;/p&gt;
+&lt;h3 id=&#34;what-is-given&#34;&gt;What is given?&lt;/h3&gt;
+&lt;p&gt;Before starting the work, I used an existing model, developed by the lab that I worked for, to calculate global mercury emission. Another model which is co-developed in the lab for calculating gaseous mercury concentration distribution is used to calculate the global mercury concentration distribution.&lt;/p&gt;
+&lt;h3 id=&#34;goal&#34;&gt;Goal&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Model the mercury emission scenario.
+&lt;ol&gt;
+&lt;li&gt;An emission calculation model was developed by Ecosystem Design Lab. I use this to calculate global mercury emission.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comparison by visualisation&lt;/strong&gt; : I needed to reproduce a similar visualisation in R and compare it to original visualisation, without knowing what program or how the visualisation was generated in the reference.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Propose mitigation strategy to reduce mercury pollution:
+&lt;ol&gt;
+&lt;li&gt;Propose strategy on a global scale to reduce global mercury emission and concentraiton.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compare the result by visualisation&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Study the effect of mitigation strategy on a local scale&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;result-of-the-study&#34;&gt;Result of the study&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Compare the produced visualisation with reference.&lt;/li&gt;
+&lt;li&gt;Present the global and local change with the same visualisation scale.&lt;/li&gt;
+&lt;li&gt;Discuss the pro and cons of visual comparison&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;1-compare-the-reproduced-visualization-of-data-and-graph&#34;&gt;1. Compare the reproduced visualization of data and graph&lt;/h3&gt;
+&lt;p&gt;Plot from reference:
+&lt;img src=&#34;./image_for_personal_post/AMAP_2050_dataset.JPG&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Plot from me:
+&lt;img src=&#34;./image_for_personal_post/AirTGM_adapted_2010.png&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The original plot is probabaly generated in MATLAB. I used R to best mimic the visualisation to help me compare
+how good is our computation method, compared to the reference.&lt;/p&gt;
+&lt;p&gt;From the general color representation, it could be seen that my visualisation was very close to the original one.
+Keep in mind that the computation method is also different. So it will result in actual different value in some cells.&lt;/p&gt;
+&lt;h3 id=&#34;21--global-change-of-mercury-concentration-after-mitigation&#34;&gt;2.1  Global change of mercury concentration after mitigation&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;./image_for_personal_post/AMAP_2050_dataset.JPG&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This graphs shows what would mercury concentration in the air be if the emission we have is like in year 2000.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image_for_personal_post/AMAP_2060_emission.png&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;This graph shows, the scenario where some technologies are adapted to reduce the emission in 2010 and what would the mercury concentration in the air be in 2060.&lt;/p&gt;
+&lt;h4 id=&#34;distribution-of-global-power-plants&#34;&gt;Distribution of global power plants&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;22-global-mercury-concentration-change-after-upgrading&#34;&gt;2.2 Global mercury concentration change after upgrading&lt;/h3&gt;
+&lt;p&gt;To reduce the mercury emission and resulting concentration in the air, two different methods are purposed to apply technology upgrade to a selection of power plants. The following graph display the results of this technology upgrade.&lt;/p&gt;
+&lt;p&gt;Both graphs display the percentage decrease of mercury concentration in the air.&lt;/p&gt;
+&lt;p&gt;The effect of using A technology
+&lt;img src=&#34;./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The effect of using B technology
+&lt;img src=&#34;./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-discussion-of-visualisation-method&#34;&gt;3. Discussion of visualisation method&lt;/h3&gt;
+&lt;p&gt;In this project, I mainly implemented the visualization scheme presented above. The aim is to compare the changes directly with the &amp;ldquo;same&amp;rdquo; color scale and unit in each graph. Since the original color scale was not clearly presented in the reference (see the first graph), I had to emulate the color scale as close as possible using R package. The advantage of using the same color scale is :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Two graphs can be compared together directly. The numerical change is linearly mapped to color change.&lt;/li&gt;
+&lt;li&gt;The consistency through out the project makes it easier to understand the changes in each scenario.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The disadvantages are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The color scale used here is not necesarily color blind friendly.&lt;/li&gt;
+&lt;li&gt;Although the numerical changes are mapped to color changes, sometimes its not strong enough to produce or spot a color change.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;What&amp;rsquo;s your opinion?&lt;/p&gt;
 &lt;p&gt;To have a view of full view of my work, visit my Github profile here: 
 &lt;a href=&#34;https://github.com/shirzartenwer/master_project_work_showcase&#34; title=&#34;Master Project Showcase&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to my Github Master Project link&lt;/a&gt;&lt;/p&gt;
 </description>

@@ -235,8 +235,8 @@
   <meta property="og:site_name" content="Shirzart Enwer">
   <meta property="og:url" content="https://shirzart.github.io/project/my-semester-project/">
   <meta property="og:title" content="My Semester Project | Shirzart Enwer">
-  <meta property="og:description" content="I analysed data from over 1000 coal fired power plant about their mercury emission and potential strategy to mitigate it."><meta property="og:image" content="https://shirzart.github.io/img/master_project.png">
-  <meta property="twitter:image" content="https://shirzart.github.io/img/master_project.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="I analysed data from over 1000 coal fired power plant about their mercury emission and potential strategy to mitigate it."><meta property="og:image" content="https://shirzart.github.io/project/my-semester-project/featured.png">
+  <meta property="twitter:image" content="https://shirzart.github.io/project/my-semester-project/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-05-04T11:23:33&#43;02:00">
@@ -266,6 +266,10 @@
     "@id": "https://shirzart.github.io/project/my-semester-project/"
   },
   "headline": "My Semester Project",
+  
+  "image": [
+    "https://shirzart.github.io/project/my-semester-project/featured.png"
+  ],
   
   "datePublished": "2020-05-04T11:23:33+02:00",
   "dateModified": "2020-05-04T11:23:33+02:00",
@@ -442,8 +446,6 @@
         
         
           
-            
-          
         
 
         
@@ -454,7 +456,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="https://incubechallenge.com/2018/11/14/incube-from-inside-how-it-all-started/" target="_blank" rel="noopener"><span>Design Thinking Posts</span></a>
+          <a class="nav-link " href="/posts/"><span>Design Thinking Posts</span></a>
         </li>
 
         
@@ -592,30 +594,29 @@
 
 
 
-<div class="article-header">
-  
-  
-  <img src="/img/master_project.png" class="article-banner" alt="">
-  
-
-  
-</div>
 
 
 
 
-  
+
+
+
+
+
+
 
   
   
+    
   
+
+
 <div class="article-container pt-3">
   <h1>My Semester Project</h1>
 
   
 
   
-    
 
 
 <div class="article-metadata">
@@ -646,22 +647,29 @@
 
 </div>
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 489px;">
+  <div style="position: relative">
+    <img src="/project/my-semester-project/featured_hu59695eefabca3d502f7f950974aaa573_153765_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -669,7 +677,69 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>In my master project, I did &hellip;.</p>
+      <h2 id="background-information">Background information</h2>
+<p>Global warming is a well-sound alarm occupying the news everyday, before the corona hit us. The most relatable source of pollution or contribution for an average joe might be the black smoke coming out of the chimney from nearby power plant. Indeed, coal-fired power plant is one of the main contributor to emission of green house gases, but what is little know to many people is, it&rsquo;s not only green house gases being emitted by power plant. Sometimes it also contains heavy metal pollutants,for example, mercury.</p>
+<p>But from all the emission happened from global power plants, how much mercury emission happened every year? After they are emitted, how would they distribute globally? While, if it&rsquo;s really bad, what can we do to reduce it? How well the effect of reduction be?</p>
+<p>There has been some studies investigating in this question, but it&rsquo;s still rather new. My thesis project was then focusing on answering those questions by 1) modelling the mercury emission 2) Calculating the mercury gaseous concentration distribution globally, 3) Purpose the mitigation strategy and model the effect after the mitigation strategy.</p>
+<h3 id="what-is-given">What is given?</h3>
+<p>Before starting the work, I used an existing model, developed by the lab that I worked for, to calculate global mercury emission. Another model which is co-developed in the lab for calculating gaseous mercury concentration distribution is used to calculate the global mercury concentration distribution.</p>
+<h3 id="goal">Goal</h3>
+<ol>
+<li>Model the mercury emission scenario.
+<ol>
+<li>An emission calculation model was developed by Ecosystem Design Lab. I use this to calculate global mercury emission.</li>
+<li><strong>Comparison by visualisation</strong> : I needed to reproduce a similar visualisation in R and compare it to original visualisation, without knowing what program or how the visualisation was generated in the reference.</li>
+</ol>
+</li>
+<li>Propose mitigation strategy to reduce mercury pollution:
+<ol>
+<li>Propose strategy on a global scale to reduce global mercury emission and concentraiton.</li>
+<li><strong>Compare the result by visualisation</strong></li>
+</ol>
+</li>
+<li><strong>Study the effect of mitigation strategy on a local scale</strong></li>
+</ol>
+<h2 id="result-of-the-study">Result of the study</h2>
+<ol>
+<li>Compare the produced visualisation with reference.</li>
+<li>Present the global and local change with the same visualisation scale.</li>
+<li>Discuss the pro and cons of visual comparison</li>
+</ol>
+<h3 id="1-compare-the-reproduced-visualization-of-data-and-graph">1. Compare the reproduced visualization of data and graph</h3>
+<p>Plot from reference:
+<img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" /></p>
+<p>Plot from me:
+<img src="./image_for_personal_post/AirTGM_adapted_2010.png" width="856" /></p>
+<p>The original plot is probabaly generated in MATLAB. I used R to best mimic the visualisation to help me compare
+how good is our computation method, compared to the reference.</p>
+<p>From the general color representation, it could be seen that my visualisation was very close to the original one.
+Keep in mind that the computation method is also different. So it will result in actual different value in some cells.</p>
+<h3 id="21--global-change-of-mercury-concentration-after-mitigation">2.1  Global change of mercury concentration after mitigation</h3>
+<p><img src="./image_for_personal_post/AMAP_2050_dataset.JPG" width="856" /></p>
+<p>This graphs shows what would mercury concentration in the air be if the emission we have is like in year 2000.</p>
+<p><img src="./image_for_personal_post/AMAP_2060_emission.png" width="856" /></p>
+<p>This graph shows, the scenario where some technologies are adapted to reduce the emission in 2010 and what would the mercury concentration in the air be in 2060.</p>
+<h4 id="distribution-of-global-power-plants">Distribution of global power plants</h4>
+<p><img src="./image_for_personal_post/Powerplants_distribution_woSO2vsALL.png" width="856" /></p>
+<h3 id="22-global-mercury-concentration-change-after-upgrading">2.2 Global mercury concentration change after upgrading</h3>
+<p>To reduce the mercury emission and resulting concentration in the air, two different methods are purposed to apply technology upgrade to a selection of power plants. The following graph display the results of this technology upgrade.</p>
+<p>Both graphs display the percentage decrease of mercury concentration in the air.</p>
+<p>The effect of using A technology
+<img src="./image_for_personal_post/1st_upgrade_Mercury_concentration_change.png" width="856" /></p>
+<p>The effect of using B technology
+<img src="./image_for_personal_post/2ndupgrade_Mercury_concentration_change.jpg" width="856" /></p>
+<h3 id="3-discussion-of-visualisation-method">3. Discussion of visualisation method</h3>
+<p>In this project, I mainly implemented the visualization scheme presented above. The aim is to compare the changes directly with the &ldquo;same&rdquo; color scale and unit in each graph. Since the original color scale was not clearly presented in the reference (see the first graph), I had to emulate the color scale as close as possible using R package. The advantage of using the same color scale is :</p>
+<ol>
+<li>Two graphs can be compared together directly. The numerical change is linearly mapped to color change.</li>
+<li>The consistency through out the project makes it easier to understand the changes in each scenario.</li>
+</ol>
+<p>The disadvantages are:</p>
+<ol>
+<li>The color scale used here is not necesarily color blind friendly.</li>
+<li>Although the numerical changes are mapped to color changes, sometimes its not strong enough to produce or spot a color change.</li>
+</ol>
+<p>What&rsquo;s your opinion?</p>
 <p>To have a view of full view of my work, visit my Github profile here: 
 <a href="https://github.com/shirzartenwer/master_project_work_showcase" title="Master Project Showcase" target="_blank" rel="noopener">Link to my Github Master Project link</a></p>
 
