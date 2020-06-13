@@ -72,13 +72,13 @@
 &lt;li&gt;Model the mercury emission scenario.
 &lt;ol&gt;
 &lt;li&gt;An emission calculation model was developed by Ecosystem Design Lab. I use this to calculate global mercury emission.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Comparison by visualisation&lt;/strong&gt; : I needed to reproduce a similar visualisation in R and compare it to original visualisation, without knowing what program or how the visualisation was generated in the reference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comparison by visualization&lt;/strong&gt; : I needed to reproduce a similar visualization in R and compare it to original visualization, without knowing what program or how the visualization was generated in the reference.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;Propose mitigation strategy to reduce mercury pollution:
 &lt;ol&gt;
-&lt;li&gt;Propose strategy on a global scale to reduce global mercury emission and concentraiton.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Compare the result by visualisation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Propose strategy on a global scale to reduce global mercury emission and concentration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compare the result by visualization&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Study the effect of mitigation strategy on a local scale&lt;/strong&gt;&lt;/li&gt;
@@ -90,10 +90,10 @@
 &lt;li&gt;Discuss the pro and cons of visual comparison&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;1-compare-the-reproduced-visualization-of-data-and-graph&#34;&gt;1. Compare the reproduced visualization of data and graph&lt;/h3&gt;
-&lt;p&gt;Plot from reference:
-&lt;img src=&#34;./image_for_personal_post/AMAP_2050_dataset.JPG&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Plot from me:
-&lt;img src=&#34;./image_for_personal_post/AirTGM_adapted_2010.png&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Plot from reference:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image_for_personal_post/AMAP_2050_dataset.JPG&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Plot from me:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./image_for_personal_post/AirTGM_adapted_2010.png&#34; width=&#34;856&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;The original plot is probabaly generated in MATLAB. I used R to best mimic the visualisation to help me compare
 how good is our computation method, compared to the reference.&lt;/p&gt;
 &lt;p&gt;From the general color representation, it could be seen that my visualisation was very close to the original one.
@@ -120,7 +120,7 @@ Keep in mind that the computation method is also different. So it will result in
 &lt;/ol&gt;
 &lt;p&gt;The disadvantages are:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;The color scale used here is not necesarily color blind friendly.&lt;/li&gt;
+&lt;li&gt;The color scale used here is not necessarily color blind friendly.&lt;/li&gt;
 &lt;li&gt;Although the numerical changes are mapped to color changes, sometimes its not strong enough to produce or spot a color change.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;What&amp;rsquo;s your opinion?&lt;/p&gt;

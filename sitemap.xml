@@ -18,12 +18,22 @@
   </url>
   
   <url>
+    <loc>https://shirzart.github.io/tag/data-analytics/</loc>
+    <lastmod>2020-05-04T11:23:33+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shirzart.github.io/project/my-semester-project/</loc>
     <lastmod>2020-05-04T11:23:33+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://shirzart.github.io/project/</loc>
+    <lastmod>2020-05-04T11:23:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shirzart.github.io/tags/</loc>
     <lastmod>2020-05-04T11:23:33+02:00</lastmod>
   </url>
   
@@ -53,10 +63,6 @@
   
   <url>
     <loc>https://shirzart.github.io/author/shirzart-enwer/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shirzart.github.io/tags/</loc>
   </url>
   
 </urlset>
