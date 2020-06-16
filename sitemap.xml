@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shirzart.github.io/authors/</loc>
+    <lastmod>2020-05-12T23:03:34+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shirzart.github.io/blog_post/</loc>
     <lastmod>2020-05-12T23:03:34+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://shirzart.github.io/blog_post/master-thesis-takeaway/</loc>
+    <lastmod>2020-05-12T23:03:34+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shirzart.github.io/author/shirzart/</loc>
     <lastmod>2020-05-12T23:03:34+02:00</lastmod>
   </url>
   
@@ -35,10 +45,6 @@
   <url>
     <loc>https://shirzart.github.io/tags/</loc>
     <lastmod>2020-05-04T11:23:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shirzart.github.io/authors/</loc>
   </url>
   
   <url>
