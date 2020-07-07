@@ -5,7 +5,7 @@
     <link>https://shirzart.github.io/post/</link>
       <atom:link href="https://shirzart.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Design Thinking Post</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2020 21:58:06 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2020 21:11:48 +0200</lastBuildDate>
     <image>
       <url>https://shirzart.github.io/images/icon_hudaf2fd83df7c62683b8b46f3900481ab_15352_512x512_fill_lanczos_center_2.png</url>
       <title>Design Thinking Post</title>
@@ -13,10 +13,29 @@
     </image>
     
     <item>
+      <title>A life with purpose </title>
+      <link>https://shirzart.github.io/blog/a-life-with-purpose/</link>
+      <pubDate>Mon, 06 Jul 2020 21:11:48 +0200</pubDate>
+      <guid>https://shirzart.github.io/blog/a-life-with-purpose/</guid>
+      <description>&lt;p&gt;I am not sure from where or who did I first hear about Victor Frankl and his book &amp;ldquo;Man&amp;rsquo;s search for meaning.&amp;rdquo; But it always have been a book that I wanted to read. Surviving one of the most serious disaster in human history, his book presented detailed his physical and mental suffer in several concentration Nazi&amp;rsquo;s concentration camps. With his surviving off the camp, he proves that in whatever condition a mankind face, even the worst possible one, there is still encoded freedom and dignity in human nature. However dim a man&amp;rsquo;s life can be, there is always a meaning to it.&lt;/p&gt;
+&lt;p&gt;Frankl was an established psychiatrist by the beginning of 1940. Parallel to the Freud and Adler, Victor is the representative of the third school of psychiatry theory: Logotherapy. He showed his talent in a young age and studied with both Freud and Adler, he didn&amp;rsquo;t agree with either school of psychology. He firmly believed that human life is not centered by the pursuit of happiness nor the pursuit of superiority. Instead, the central thesis of human&amp;rsquo;s life is a meaning. With some years of practice, he further developed the theory and started to write a book.&lt;/p&gt;
+&lt;p&gt;Before he was taken in to Auschwitz in 1940, he was already established and running a clinic in Vienna, which still took Jewish people. When Nazis suddenly appeared at his door and took him to the camp, he had the manuscript of the book with him. Little did he know, the only asset he could preserve in the camp is his bare body. Yet it is still the luckiest case.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./Victor_portrait.jpeg&#34; width=&#34;860&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Going through of the worst condition one could imagine and survived with sheer luck, in this book, Frankl breaks down the three phases of mental struggle that a typical prisoner goes through. Everyone who wasn&amp;rsquo;t sent to the gas chamber still faced a tough mental challenge with extreme weather and physical conditions to preserve mental sanity. &lt;strong&gt;Once the belief of survival is gone, disease will soon conquer the very weak body and take away once&amp;rsquo;s life&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;It is in this extreme condition, Frankl proved his theory by holding up to the belief that &lt;strong&gt;all these suffering will have a meaning and his life has a meaning.&lt;/strong&gt;
+With this strong belief, not only did he survived concentration camps, he also lived a long life until 92 years old. When was taken to the camp, he was 35. Five years would passed when he survived and it also took away his wife, brother, and both parents. He would never made it out and had an impactful life until 92, if he hadn&amp;rsquo;t hold on to the strong purpose &lt;strong&gt;he chose for himself&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Seeing him overcoming all the psychological challenges gives the reader a sense of confirm and encouragement, to boldly pursue one&amp;rsquo;s purpose without any hesitations. As one of my favorite excerpt from the book says:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Live as if you were living for the second time and had acted as wrongly the first time as you are about to act now.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Beauty of Design Thinking</title>
-      <link>https://shirzart.github.io/post/the-beauty-of-design-thinking/</link>
+      <link>https://shirzart.github.io/blog/the-beauty-of-design-thinking/</link>
       <pubDate>Thu, 11 Jun 2020 21:58:06 +0200</pubDate>
-      <guid>https://shirzart.github.io/post/the-beauty-of-design-thinking/</guid>
+      <guid>https://shirzart.github.io/blog/the-beauty-of-design-thinking/</guid>
       <description>&lt;p&gt;Do you like wondering about big ideas from now and then, but don&amp;rsquo;t know if it&amp;rsquo;s gonna be useful someday? Well most of us might had a day or two where you think about another way of going to school, taking classes, commuting in the cities or just having a different memory system or anything,  like the kind of future scenario that none of the science fiction wrote about it, yet its so intriguing. The joy of indulging myself in the wonderland of imagination is always so liberating. Yet most of these things never make a stop further than being forgotten at the back of your brain.&lt;/p&gt;
 &lt;p&gt;Sometimes, I also enjoy building things from scratch. Unlike the most geeky kids who started out with computer programming at early age, my earliest building projects were all kinds of Mini models that compose a great toy after being built. There was a time when a Japanese Anime about miniature 4WD was viral in Urumqi. I spent numerous evenings of my primary school days to build them. The joy of composing something that&amp;rsquo;s working was unparalleled. I would easily spent 2 hours without thinking about anything else to try to finish the project.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./Mini4WD_model.jpg&#34; width=&#34;860&#34; /&gt;&lt;/p&gt;
@@ -34,6 +53,50 @@
 &lt;p&gt;While the whole design thinking process breaks down into problem space and solution space, each spaces are made of a diverging process where you &lt;strong&gt;brainstrom ideas and be open-minded&lt;/strong&gt; and a converging process where you &lt;strong&gt;examine your assumptions&lt;/strong&gt; by using testing method such as rapid prototyping, etc. The key in the converging face is to be flexible and not fix your mind on an existing solutions. Moreover, the quality of diverging phase also set a tone of how innovative your solutions can be. The more open-minded you are, the more surprise you will find in the end.There are lot of techniques go into the process of testing and validating assumptions, which will not be discussed in detail here.&lt;/p&gt;
 &lt;p&gt;Nevertheless, the design thinking process is never a one time project. The whole process could be repeated iteratively for as many times as you need when time is not a problem. The real joy I find in the process is when I can be as wild as I want in brainstorming, while being as rigorous as I can achieve in testing the assumptions and developing solutions. There is intellectual joy hidden in the making of a great idea or MVP.&lt;/p&gt;
 &lt;p&gt;I guess this is why I ❤️ Design Thinking :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning from my master thesis</title>
+      <link>https://shirzart.github.io/blog/learning-from-my-master-thesis/</link>
+      <pubDate>Tue, 12 May 2020 23:03:34 +0200</pubDate>
+      <guid>https://shirzart.github.io/blog/learning-from-my-master-thesis/</guid>
+      <description>&lt;p&gt;Last year, during this time, I was sprinting my last month of work for my master thesis. At that time, I had the general impression that the result would be rather good. One month after that I finished my master thesis and submitted it. From the beginning of my thesis work, I had a clear goal in mind to obtain a great grade for it.&lt;/p&gt;
+&lt;p&gt;I finished my thesis one month later. To this day, I still remember when I walked into the assistant’s office, I felt quite anxious. My heart was beating fast as if I had missed something crucial. However, when I tried to calm down and go through the details, I couldn’t find anything that would have explained my anxiety.&lt;/p&gt;
+&lt;p&gt;Two to three months later, I finally received my grade. It was waaayyy lower than my expectation. I just couldn’t make my head around it, because even my supervisor was saying “great job”, “well done” in most of the meetings when we talk about the result of my thesis.&lt;/p&gt;
+&lt;p&gt;In retrospect, my thesis wasn’t perfect. Something could have been done differently. One of the biggest reasons that I received a low grade was: “He works hard and fast, but without a plan.” Although I had a plan at that time, it turns out I still failed my thesis to my standard.&lt;/p&gt;
+&lt;p&gt;If I had the chance to do it differently, I would rethink it on the following 6 aspects:&lt;/p&gt;
+&lt;h1 id=&#34;1-have-a-plan-and-manage-it-correctly&#34;&gt;1. Have a plan and manage it correctly&lt;/h1&gt;
+&lt;p&gt;At the beginning of my thesis, I had a kickoff meeting with my supervisor about the thesis work. Except for talking about technical details, the most important thing they told me was to have a plan to secure the success of my thesis.&lt;/p&gt;
+&lt;p&gt;And I did.&lt;/p&gt;
+&lt;p&gt;I had weekly plans like the following:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./MT_overall.png&#34; width=&#34;860&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The note of each week contained a summary from the previous week and a plan for the current week:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./MT_weekly_p1.png&#34; width=&#34;860&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./MT_weekly_p2.png&#34; width=&#34;860&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;However, with all these plans implemented, &lt;strong&gt;My supervisor still had the impression that I didn’t have a plan. It means something went wrong in my execution.&lt;/strong&gt; Having a plan doesn’t guarantee success. You need to be able to execute it, measure it, reflect on each week’s process, and improve on it.&lt;/p&gt;
+&lt;p&gt;Managing a master thesis is actually a project management task. Implementing a proper project management scheme would actually be beneficial. Between the most widely used project management scheme, implementing a waterfall project management could be really helpful. &lt;strong&gt;Because the scope and cost are defined before the thesis.&lt;/strong&gt; Even though the goal of the thesis may be adjusted along the way in some cases, most often the scope is predefined and you need to guarantee success.&lt;/p&gt;
+&lt;p&gt;Compared to my weekly reflection and planning method above, waterfall project management can give you a good overview of the workload distribution in each week, help you adjust your plan when there is still time left, and let you control the cost. All of this is possible because of the Gantt chart – the main tool used for waterfall project management.&lt;/p&gt;
+&lt;p&gt;If I could do my thesis again, I would manage it better using waterfall project management.&lt;/p&gt;
+&lt;h1 id=&#34;2-keep-a-balance-between-being-independent-and-seeking-guidance&#34;&gt;2. Keep a balance between being independent and seeking guidance.&lt;/h1&gt;
+&lt;p&gt;I graduated from one of the best universities in Europe, a place where they always encourage you to ask questions. As we all know, “There are no dumb questions”. While being curious and inquisitive will definitely help you in the class, when working on a project with supervisors, you need to keep a good balance.&lt;/p&gt;
+&lt;p&gt;Entering my thesis work, I was determined reach the goal I had proposed when I started my thesis and to learn from it as much as I can. Through out my thesis progress, I was always trying to be communicative and ask questions to my supervisors about my progress, my working method and how should I improve.&lt;/p&gt;
+&lt;p&gt;However, these questions sometimes were not only about my thesis design and execution, but I also asked some technical trick in programming and algorithms to expand my knowledge. I thought this would leave a good impression.&lt;/p&gt;
+&lt;p&gt;In the end, I also received a comment from my supervisor saying “Sometimes, he needs too much help”. It’s understandable that your supervisors also have a lot of other responsibilities. Bothering them too much will leave an impression of not being independent enough.&lt;/p&gt;
+&lt;p&gt;If I could have done it one more time, I would restrain myself from asking questions that are not relevant for my thesis.&lt;/p&gt;
+&lt;h1 id=&#34;3-writing-style-and-perfection&#34;&gt;3. Writing style and perfection&lt;/h1&gt;
+&lt;p&gt;A great thesis comes with great academic writing skills. This might have been my weakest point throughout my thesis work. My department considers a good thesis to be no longer than 30 pages, not including the appendix. Some people chose to write a complex appendix to showcase all the results, while I chose to write a brief thesis and only put in relevant content to the appendix.&lt;/p&gt;
+&lt;p&gt;Writing your thesis in a concise way was challenging. In the end, the content of my thesis was 26 pages. I went through 3 rounds of correction with my supervisors before the hand-in.&lt;/p&gt;
+&lt;p&gt;However, a crucial mistake I made there was &lt;strong&gt;adding or changing content the night before the submission&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This ended up costing me a lot since many mistakes came from these last minute changes. I was just not confident enough to leave it and hand in the next day. For different people, it might work differently, but I had more than once experience that &lt;strong&gt;changing the content in the last minute costs me more than the value brought by that change.&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;4-communication-and-expectation-management&#34;&gt;4. Communication and Expectation management&lt;/h1&gt;
+&lt;p&gt;Another myth that hit me very hard after I got the result of my thesis is the difference between reality and expectation. Throughout my thesis work, I felt that 80% of the feedback I received  was positive feedback, like “Good job” , “Well done”, and “You have the potential to write an excellent grade”. However, there was negative feedback too, when I underperformed for my second midterm presentation. They told me about their disappointment and frustration about some persistent spelling mistakes. But it didn’t sound too negative for me and I could not feel the strong disappointment as they did. This ended up costing me a lot.&lt;/p&gt;
+&lt;p&gt;Next time, when collaborating with a person who is going to grade me, I would definitely have a meeting with them and align everyone’s expectations. Most importantly, I would be careful on not to indulge my self on positive feedback. The best way to manage expectations is to align the criteria and the final goal. If I had been more explicit and aligned my goal with my supervisor, the result would have turned out differently.&lt;/p&gt;
+&lt;h1 id=&#34;5-motivation-source-find-the-intrinsic-motivation-not-external-stimulus&#34;&gt;5. Motivation source: find the intrinsic motivation, not external stimulus&lt;/h1&gt;
+&lt;p&gt;While it might not too much room to discuss where the motivation should come from when you are doing aster thesis, since a grade will be given directly from the supervisors as an evaluation. You will inherently have a big motivation to please them. But the disadvantages of this mechanism are, you may stop to progress at a point that is enough to meet your supervisors&amp;rsquo; expectation, while most of the time, an excellent piece of work goes beyond expectations.&lt;/p&gt;
+&lt;p&gt;Whenever possible, you should seek intrinsic motivation within yourself. You need to own your project, own your thesis, and your work by setting your goal, your expectation and motivate yourself with less external incentives but more with internal incentives. Only in this way, you won&amp;rsquo;t rest at a sudo-perfect solution, but always pursuing a better result. Freeing yourself from other people’s expectations and instead striving to meet our own needs, would be the most independent long term motivation that drives us safe and far.&lt;/p&gt;
+&lt;p&gt;I learned this only after my thesis, after a tearful and heart-breaking meeting.&lt;/p&gt;
+&lt;p&gt;I wish I could have done my thesis in all these different ways :)&lt;/p&gt;
 </description>
     </item>
     

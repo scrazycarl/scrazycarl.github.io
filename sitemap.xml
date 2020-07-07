@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shirzart.github.io/blog/br_mans_search_for_meaning/</loc>
+    <loc>https://shirzart.github.io/blog/a-life-with-purpose/</loc>
     <lastmod>2020-07-06T21:11:48+02:00</lastmod>
   </url>
   
@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>https://shirzart.github.io/blog/</loc>
+    <loc>https://shirzart.github.io/tag/book-review/</loc>
     <lastmod>2020-07-06T21:11:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shirzart.github.io/tag/book-review/</loc>
+    <loc>https://shirzart.github.io/post/</loc>
     <lastmod>2020-07-06T21:11:48+02:00</lastmod>
   </url>
   
@@ -38,22 +38,27 @@
   </url>
   
   <url>
+    <loc>https://shirzart.github.io/categories/</loc>
+    <lastmod>2020-06-11T21:58:06+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shirzart.github.io/tag/design-thinking/</loc>
     <lastmod>2020-06-11T21:58:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shirzart.github.io/post/</loc>
+    <loc>https://shirzart.github.io/category/design-thinking/</loc>
     <lastmod>2020-06-11T21:58:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shirzart.github.io/post/the-beauty-of-design-thinking/</loc>
+    <loc>https://shirzart.github.io/blog/the-beauty-of-design-thinking/</loc>
     <lastmod>2020-06-11T21:58:06+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shirzart.github.io/blog/master-thesis-takeaway/</loc>
+    <loc>https://shirzart.github.io/blog/learning-from-my-master-thesis/</loc>
     <lastmod>2020-05-12T23:03:34+02:00</lastmod>
   </url>
   
@@ -70,10 +75,6 @@
   <url>
     <loc>https://shirzart.github.io/project/</loc>
     <lastmod>2020-05-04T11:23:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shirzart.github.io/categories/</loc>
   </url>
   
   <url>
