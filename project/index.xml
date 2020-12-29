@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Shirzart Enwer</title>
-    <link>https://shirzart.github.io/project/</link>
-      <atom:link href="https://shirzart.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shirzartenwer.github.io/project/</link>
+      <atom:link href="https://shirzartenwer.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 May 2020 11:23:33 +0200</lastBuildDate>
     <image>
-      <url>https://shirzart.github.io/images/icon_hudaf2fd83df7c62683b8b46f3900481ab_15352_512x512_fill_lanczos_center_2.png</url>
+      <url>https://shirzartenwer.github.io/images/icon_hudaf2fd83df7c62683b8b46f3900481ab_15352_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://shirzart.github.io/project/</link>
+      <link>https://shirzartenwer.github.io/project/</link>
     </image>
     
     <item>
       <title>My Semester Project</title>
-      <link>https://shirzart.github.io/project/my-semester-project/</link>
+      <link>https://shirzartenwer.github.io/project/my-semester-project/</link>
       <pubDate>Mon, 04 May 2020 11:23:33 +0200</pubDate>
-      <guid>https://shirzart.github.io/project/my-semester-project/</guid>
+      <guid>https://shirzartenwer.github.io/project/my-semester-project/</guid>
       <description>&lt;h2 id=&#34;background-information&#34;&gt;Background information&lt;/h2&gt;
 &lt;p&gt;Global warming is a well-sound alarm occupying the news everyday, before the corona hit us. The most relatable source of pollution or contribution for an average joe might be the black smoke coming out of the chimney from nearby power plant. Indeed, coal-fired power plant is one of the main contributor to emission of green house gases, but what is little know to many people is, it&amp;rsquo;s not only green house gases being emitted by power plant. Sometimes it also contains heavy metal pollutants,for example, mercury.&lt;/p&gt;
 &lt;p&gt;But from all the emission happened from global power plants, how much mercury emission happened every year? After they are emitted, how would they distribute globally? While, if it&amp;rsquo;s really bad, what can we do to reduce it? How well the effect of reduction be?&lt;/p&gt;
